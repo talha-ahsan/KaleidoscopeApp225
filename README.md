@@ -2,6 +2,6 @@
 A repository for the Spring 2016 Comp 225 group project. 
 
 
-TODO: choose language, design, basically everything other than the initial idea.
-
+Changelog: 
+Feb 17: Added Drag and Drop Test.html sample code from online
 potato
